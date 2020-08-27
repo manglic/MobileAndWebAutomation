@@ -1,0 +1,7 @@
+2020-08-27 19:33:56 DEBUG WebDriverSetup:29 - returning driver for browser:chrome
+2020-08-27 19:34:09 DEBUG WebDriverSetup:55 - returning chrome driver...
+2020-08-27 19:34:09 DEBUG BasePage:28 - Initiated webelement in Base class contructor for class: com.babbel.testautomation.pageobjects.web.BasePage
+2020-08-27 19:34:09 DEBUG HomePage:23 - In HomePage class contructor
+2020-08-27 19:34:16 DEBUG BasePage:28 - Initiated webelement in Base class contructor for class: com.babbel.testautomation.pageobjects.web.BasePage
+2020-08-27 19:34:16 DEBUG ResultPage:23 - In ResultPage class contructor
+2020-08-27 19:34:28 DEBUG BaseUiTest:52 - Clocing WebDriver

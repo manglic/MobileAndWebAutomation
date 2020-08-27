@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="QA Task Suite" parallel="tests">   
+  <test name="MobileTest">
+	 <classes>
+	   <class name="com.babbel.testautomation.tests.mobile.MobileTests"/>
+	 </classes>
+   </test>
+</suite>
